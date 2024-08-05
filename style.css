@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #F4D9D0;
+}
+
+.content{
+  text-align: center;
+  font-family: "Lora", serif;
+}
+
+#navigation{
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 5px;
+  border-color: #C75B7A;
+  background-color: #D9ABAB;
+  border-style: groove;
+}
+
+#dark-font{
+  color: #921A40;
+}
+
+#medium-font, p{
+  color: #C75B7A;
+}
+
+h3{
+  text-decoration: underline;
+  color: #D9ABAB;
+}
+
+#gifs{
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #C75B7A;
+  border-style: groove;
+}
